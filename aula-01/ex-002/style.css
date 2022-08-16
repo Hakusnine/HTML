@@ -1,0 +1,23 @@
+@font-face{
+    font-family: 'Mother';
+    src: url('Mother Tongue.otf') format('opentype');
+
+}
+body{
+    background-image: linear-gradient(to right, rgb(230, 138, 107), rgb(252, 138, 107));
+font-family: 'Mother';
+font-size: 50px;
+}
+ h1{
+    color: rgb(173, 13, 13);
+}
+p{
+    color: rgb(173, 13, 13);
+}
+main{
+    background-color: rgb(255, 255, 255);
+    margin: auto;
+    width: 600px;
+    padding: 10px;
+    box-shadow: rgb(107, 65, 51) 10px 10px 10px;
+}

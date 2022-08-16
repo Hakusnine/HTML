@@ -1,0 +1,25 @@
+body{
+    background-color: rgb(101, 190, 231);
+}
+
+h1{
+    color: rgb(29, 53, 65);
+}
+
+h1#principal{
+    color: black;
+    text-align: center;
+    background-color: aqua;
+}
+
+h2{
+color: rgb(0, 41, 61);
+}
+p{
+    color: rgb(5, 44, 63);
+}
+
+.basico{
+    color: darkblue;
+    background-color: rgb(43, 250, 36);
+}
